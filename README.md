@@ -37,11 +37,6 @@ Before running the project, make sure you have the following prerequisites insta
      pip install apache-airflow
      ```
 
-   - Initialize the Airflow database:
-
-     ```bash
-     airflow db init
-     ```
 
    - Start the Airflow web server and scheduler:
 
